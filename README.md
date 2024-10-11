@@ -36,3 +36,7 @@ Menor que 18.5	Abaixo do peso
 35.0 - 39.9	Obesidade grau 2
 
 Maior que 40	Obesidade grau 3
+
+Contribuições são bem-vindas! Se você tem sugestões de melhorias ou novas funcionalidades, sinta-se à vontade para abrir um pull request.
+
+Este projeto está licenciado sob a MIT License.
