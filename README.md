@@ -37,6 +37,6 @@ Menor que 18.5	Abaixo do peso
 
 Maior que 40	Obesidade grau 3
 
-Layout e algoritmo baseado no vídeo de larissa kich! Contribuições são bem-vindas! Se você tem sugestões de melhorias ou novas funcionalidades, sinta-se à vontade para abrir um pull request.
+Layout e algoritmo baseado no vídeo de Larissa Kich! Contribuições são bem-vindas! Se você tem sugestões de melhorias ou novas funcionalidades, sinta-se à vontade para abrir um pull request.
 
 Este projeto está licenciado sob a MIT License.
