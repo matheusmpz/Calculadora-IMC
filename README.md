@@ -24,18 +24,14 @@ Fórmula Utilizada:
 IMC = Peso (kg) / Altura² (m²)
 
 A classificação do IMC segue a tabela padrão da OMS:
-
+```
 Menor que 18.5	Abaixo do peso
-
 18.5 - 24.9	Peso normal
-
 25.0 - 29.9	Sobrepeso
-
 30.0 - 34.9	Obesidade grau 1
-
 35.0 - 39.9	Obesidade grau 2
-
 Maior que 40	Obesidade grau 3
+```
 
 Layout e algoritmo baseado no vídeo de Larissa Kich! Contribuições são bem-vindas! Se você tem sugestões de melhorias ou novas funcionalidades, sinta-se à vontade para abrir um pull request.
 
